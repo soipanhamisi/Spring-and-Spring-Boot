@@ -1,0 +1,10 @@
+# Default ignored files
+/../../sq-ch5-ex2./.idea/shelf/
+/../../sq-ch5-ex2./.idea/workspace.xml
+# Editor-based HTTP Client requests
+/../../sq-ch5-ex2./.idea/httpRequests/
+# Environment-dependent path to Maven home directory
+/../../sq-ch5-ex2./.idea/mavenHomeManager.xml
+# Datasource local storage ignored files
+/../../sq-ch5-ex2./.idea/dataSources/
+/../../sq-ch5-ex2./.idea/dataSources.local.xml
